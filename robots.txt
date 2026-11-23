@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://bsanagostar-cloud.github.io/amir-behnia/sitemap.xml
+Sitemap: https://bsanagostar-cloud.github.io/sitemap.xml
